@@ -1,0 +1,19 @@
+{
+  "name": "cloudguru-dynamodb",
+  "version": "1.0.0",
+  "description": "Testing DynamoDB from EC2 instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmcg/CloudGuruDynamoDB.git"
+  },
+  "author": "Tony McGee <tmcgee.au@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmcg/CloudGuruDynamoDB/issues"
+  },
+  "homepage": "https://github.com/tmcg/CloudGuruDynamoDB#readme"
+}
