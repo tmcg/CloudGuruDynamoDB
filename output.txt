@@ -1,0 +1,11 @@
+TABLES:
+[ 'CloudGuruNoSQL' ]
+ITEMS:
+[ { superpowers: [ 'flight', 'strength' ],
+    first_name: 'Clark',
+    last_name: 'Kent',
+    guru_id: 2 },
+  { first_name: 'Tony',
+    superpowers: [ 'dynamodb' ],
+    last_name: 'McGee',
+    guru_id: 1 } ]
